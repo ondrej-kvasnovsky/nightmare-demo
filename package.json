@@ -1,0 +1,22 @@
+{
+  "name": "nightmare-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "koa": "^2.5.0",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "nightmare": "3.0.1",
+    "nightmare-load-filter": "^0.2.0",
+    "nightmare-webrequest-addon": "^1.0.0",
+    "pm2": "^2.10.2",
+    "xvfb": "^0.2.3"
+  }
+}
